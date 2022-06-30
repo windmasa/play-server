@@ -1,6 +1,8 @@
 application:
-    message: Configured by Spring Cloud Config Server
+    message: TEST
 
 azure:
     localfs:
-        baseStorageDir: /gg
+        baseStorageDir: /sync
+        
+        
